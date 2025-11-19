@@ -72,6 +72,24 @@ npm run preview
 - **Recharts** - Data visualization
 - **Lucide React** - Icons
 
+## ☁️ Deployment
+
+This app is ready to deploy to **Cloudflare Pages**!
+
+### Quick Deploy Options:
+
+1. **GitHub Integration** (Recommended)
+   - Connect your repo to Cloudflare Pages
+   - Automatic deployments on every push
+   - Free hosting with global CDN
+
+2. **CLI Deployment**
+   ```bash
+   npm run pages:deploy
+   ```
+
+See [CLOUDFLARE.md](./CLOUDFLARE.md) for detailed deployment instructions.
+
 ## 🎨 The 6-7 Philosophy
 
 - **6** - The perfect number
